@@ -1,6 +1,5 @@
 package com.apurba.spingboot.cruddemo.rest;
 
-import com.apurba.spingboot.cruddemo.dao.EmployeeDAO;
 import com.apurba.spingboot.cruddemo.entity.Employee;
 import com.apurba.spingboot.cruddemo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
